@@ -1,0 +1,110 @@
+﻿生成启动时间为 2020/4/10 19:06:34。
+     1>项目“E:\Reboot\FUNC\L3\ROBOT_FC\PC\LyEasyTrajectory\LyEasyTrajectory.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“.\Debug\LyEasyTrajectory.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LyEasyTrajectoryDlg.cpp
+         LyEasyTrajectoryDlg.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(615): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(636): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(647): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(830): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1154): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1158): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1162): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1166): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1170): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1174): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1178): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1184): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1188): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1193): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1197): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1201): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1397): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1899): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1951): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(1983): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(2098): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(2099): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(2100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\reboot\func\l3\robot_fc\pc\lyeasytrajectory\lyeasytrajectorydlg.cpp(2202): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0804" /nologo /fo".\Debug\LyEasyTrajectory.res" LyEasyTrajectory.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\LyEasyTrajectory.exe.embed.manifest.res" .\Debug\LyEasyTrajectory_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\LyEasyTrajectory.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib glut32.lib glew32.lib /MANIFEST /ManifestFile:".\Debug\LyEasyTrajectory.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Reboot\FUNC\L3\ROBOT_FC\PC\LyEasyTrajectory\Debug\LyEasyTrajectory.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\LyEasyTrajectory.lib" /MACHINE:X86 .\Debug\LyEasyTrajectory.res
+         .\Debug\LyEasyTrajectory.exe.embed.manifest.res
+         .\Debug\APara.obj
+         .\Debug\CAMPlatform.obj
+         .\Debug\CFGFILE.obj
+         .\Debug\EditPointSet.obj
+         .\Debug\GLLine.obj
+         .\Debug\GLSTL.obj
+         .\Debug\GLView.obj
+         .\Debug\LyDG.obj
+         .\Debug\LyEasyTrajectory.obj
+         .\Debug\LyEasyTrajectoryDlg.obj
+         .\Debug\LyFlatSTL.obj
+         .\Debug\OLP.obj
+         .\Debug\PointSet.obj
+         .\Debug\RITools.obj
+         .\Debug\SmoothFilters.obj
+         .\Debug\StdAfx.obj
+         .\Debug\ToolOS.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\LyEasyTrajectory.exe.embed.manifest" /manifest .\Debug\LyEasyTrajectory.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\LyEasyTrajectory.exe.embed.manifest.res" .\Debug\LyEasyTrajectory_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\LyEasyTrajectory.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib glut32.lib glew32.lib /MANIFEST /ManifestFile:".\Debug\LyEasyTrajectory.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Reboot\FUNC\L3\ROBOT_FC\PC\LyEasyTrajectory\Debug\LyEasyTrajectory.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\LyEasyTrajectory.lib" /MACHINE:X86 .\Debug\LyEasyTrajectory.res
+         .\Debug\LyEasyTrajectory.exe.embed.manifest.res
+         .\Debug\APara.obj
+         .\Debug\CAMPlatform.obj
+         .\Debug\CFGFILE.obj
+         .\Debug\EditPointSet.obj
+         .\Debug\GLLine.obj
+         .\Debug\GLSTL.obj
+         .\Debug\GLView.obj
+         .\Debug\LyDG.obj
+         .\Debug\LyEasyTrajectory.obj
+         .\Debug\LyEasyTrajectoryDlg.obj
+         .\Debug\LyFlatSTL.obj
+         .\Debug\OLP.obj
+         .\Debug\PointSet.obj
+         .\Debug\RITools.obj
+         .\Debug\SmoothFilters.obj
+         .\Debug\StdAfx.obj
+         .\Debug\ToolOS.obj
+         LyEasyTrajectory.vcxproj -> E:\Reboot\FUNC\L3\ROBOT_FC\PC\LyEasyTrajectory\.\Debug\LyEasyTrajectory.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\LyEasyTrajectory.unsuccessfulbuild”。
+         正在对“.\Debug\LyEasyTrajectory.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Reboot\FUNC\L3\ROBOT_FC\PC\LyEasyTrajectory\LyEasyTrajectory.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.39
